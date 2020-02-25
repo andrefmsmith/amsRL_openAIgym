@@ -1,8 +1,14 @@
-# amsRL_openAIgym
-In this collection of Jupyter notebooks I experiment with and explore several [openAIgym tasks](https://gym.openai.com/envs/#classic_control).
+# A 'Code Blog' for Deep Reinforcement Learning using openAI gym
+I created this repo as a study aid for Deep Reinforcement Learning, following my enrollment in the [corresponding Udacity Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).  
 
-Each notebook is a reasonably in-depth exploration of a particular task, as opposed to the direct demonstration of a solution. I am using the notebooks as a study tool, documenting my own thoughts, interpretations and intuitions and trying out a range of different things to figure out what works and why, in a bid to advance my understanding of Reinforcement Learning. Be warned that although the notebooks are tidy and documented for my own learning and later revisions, some of my interpretations or assertions could well be wrong. They are correct only to the extent of my (currently incipient) knowledge about RL.
+My goal is to write a series of Jupyter Notebooks as if they were blog entries, each containing code for resolving a particular task in the [openAI gym environments](https://gym.openai.com/envs/#classic_control), detailed explanations of how the code works and short, 'take-home' notes on the underlying Reinforcement Learning concepts.  
 
-This exploration of openAIgym tasks is being guided by my enrollment in the [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). All of the notebooks are my own independent work, but if you wonder sometimes why a particular method was used as opposed to a different one which may well have been more effective, the answer is likely that I wanted to practise a particular concept learned during the Udacity module I was taking at the time.
+The process of documenting and explaining my code as if it were going to be read by others has been instrumental in structuring and clarifying my thinking. Furthermore, I have tried to use the notebooks to briefly recapitulate the underlying RL concepts and remind myself of the context and motivation for a particular approach, rather than focusing exclusively on implementation. I feel this exercise has promoted in me a deeper understanding of RL concepts and their context, in forcing me to consider a big-picture view of how everything I've learnt so far fits together. If you're enrolled on the same (or a similar) program, I would encourage you to avoid passive consumption of course content (regardless of its high quality) and adopt this proactive approach. Though slower, my experience has been that it is ultimately more rewarding in that it leads to deeper and more consolidated understanding.  
 
-With that said, I hope you find this a useful study aid too. openAIgym is a fantastic resource and if you haven't yet, I strongly recommend you experiment with a range of their environments.
+See below for a table of contents of environments and concepts tackled. I will keep a running update on this.
+
+| Environment        | Concepts                 | Date           |
+| -------------      | -------------            |----            |
+| [FrozenLake](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/AMS_FrozenLake.ipynb)         | TD methods (Q-learning)  |21/02/2020      |
+| [Blackjack](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/AMS_Blackjack.ipynb)          | Monte Carlo Control      |23/02/2020      |
+| [LunarLander/Box2D in general](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/DQN/CodeBlog_Deep%20Q%20Network%20Implementation.ipynb)  | Deep Q Networks          |25/02/2020      |
