@@ -9,6 +9,6 @@ See below for a table of contents of environments and concepts tackled. I will k
 
 | Environment        | Concepts                 | Date           |
 | -------------      | -------------            |----            |
-| [FrozenLake](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/AMS_FrozenLake.ipynb)         | TD methods (Q-learning)  |21/02/2020      |
-| [Blackjack](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/AMS_Blackjack.ipynb)          | Monte Carlo Control      |23/02/2020      |
-| [LunarLander/Box2D in general](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/DQN/CodeBlog_Deep%20Q%20Network%20Implementation.ipynb)  | Deep Q Networks          |25/02/2020      |
+| [FrozenLake](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_FrozenLake.ipynb)         | TD methods (Q-learning)  |21/02/2020      |
+| [Blackjack](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_Blackjack.ipynb)          | Monte Carlo Control      |23/02/2020      |
+| [LunarLander/Box2D in general](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/DQN/CodeBlog_DQN.ipynb)  | Deep Q Networks          |25/02/2020      |
