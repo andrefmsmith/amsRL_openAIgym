@@ -12,4 +12,4 @@ See below for a table of contents of environments and concepts tackled. I will k
 | [FrozenLake](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_FrozenLake.ipynb)         | TD methods (Q-learning)  |21/02/2020      |
 | [Blackjack](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_Blackjack.ipynb)          | Monte Carlo Control      |23/02/2020      |
 | [LunarLander/Box2D in general](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/DQN/CodeBlog_DQN.ipynb)  | Deep Q Networks          |25/02/2020      |
-|[Unity Banana](https://github.com/andrefmsmith/drlnd_NavigationSubmission)|D eep Q Networks, with detailed walkthrough |03/03/2020
+|[Unity Banana](https://github.com/andrefmsmith/drlnd_NavigationSubmission)| Deep Q Networks, with detailed walkthrough |03/03/2020
