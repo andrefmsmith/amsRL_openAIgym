@@ -14,3 +14,4 @@ See below for a table of contents of environments and concepts tackled. I will k
 | [LunarLander/Box2D in general](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/DQN/CodeBlog_DQN.ipynb)  | Deep Q Networks          |25/02/2020      |
 |[Unity Banana](https://github.com/andrefmsmith/drlnd_NavigationSubmission)| Deep Q Networks, with detailed walkthrough |03/03/2020
 |[Cartpole](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_Cartpole_Policy.ipynb)| Policy Networks, Hill-Climbing, Steepest Ascent| 10/03/20
+|[MountainCar](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_CrossEntHC.ipynb)|2-layer Policy Networks, Cross-Entropy Method|13/03/20
