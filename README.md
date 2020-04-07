@@ -16,3 +16,5 @@ See below for a table of contents of environments and concepts tackled. I will k
 |[Cartpole](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_Cartpole_Policy.ipynb)| Policy Networks, Hill-Climbing, Steepest Ascent| 10/03/20
 |[MountainCar](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/CodeBlog_CrossEntHC.ipynb)|2-layer Policy Networks, Cross-Entropy Method|13/03/20
 |[*Pong!* from pixels](https://github.com/andrefmsmith/amsRL_openAIgym/blob/master/Pong/README.md)|Policy gradients, future rewards, REINFORCE|24/03/2020
+|[Reacher](https://github.com/andrefmsmith/drlnd_ContinuousCtrlSubmission)|Policy gradients, Experience Replay, DDPG|01/04/2020
+|[Tennis](https://github.com/andrefmsmith/drlnd_CollabCompetSubmission)|Multi-agent RL, Policy Gradients, Experience Replay, DDPG|07/04/2020
